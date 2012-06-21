@@ -1,0 +1,23 @@
+#showing-list img{
+	width: 71px;
+	height: 71px;
+	border: 1px solid #7e7f83;	
+	margin: 4px;
+}
+#showing-list li span {
+	font-size: 14px;
+	font-style: italic;
+}
+/*
+#showing-list li:nth-child(even) {
+	border: 1px solid #000505;
+	background: #eeeeee;
+	color: #eff7fa;
+	background-image: -webkit-gradient(linear, left top, left bottom, from( #749BB9 /*{a-bup-background-start}*/), to( #507D9F*/)); /* Saf4+, Chrome */
+	/*background-image: -webkit-linear-gradient( #749BB9, #507D9F); /* Chrome 10+, Saf5.1+ */
+	/*background-image:    -moz-linear-gradient( #749BB9, #507D9F); /* FF3.6 */
+	/*background-image:     -ms-linear-gradient( #749BB9, #507D9F); /* IE10 */
+	/*background-image:      -o-linear-gradient( #749BB9, #507D9F); /* Opera 11.10+ */
+	/*background-image:         linear-gradient( #749BB9, #507D9F);
+}
+*/

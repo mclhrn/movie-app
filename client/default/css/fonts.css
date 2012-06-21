@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'AlexandriaFLFRegular';
+    src: url('fonts/alexandriaflf-webfont.eot');
+    src: url('fonts/alexandriaflf-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/alexandriaflf-webfont.woff') format('woff'),
+         url('fonts/alexandriaflf-webfont.ttf') format('truetype'),
+         url('fonts/alexandriaflf-webfont.svg#AlexandriaFLFRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
