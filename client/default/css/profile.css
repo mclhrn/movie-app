@@ -1,21 +1,21 @@
 #movie-poster img{
 	border: 1px solid #7e7f83;				
 }
-#director {
-	text-indent: 15px;
+
+#movie-description {
+	width: 100%;
+	min-height: 179px;
+	background-color: white;
+	margin: 1px 0;
+	padding: 10px 25px;
+	color: #161c20;
+	border-top: 1px solid #65727c;
 }
-#genre {
-	text-indent: 15px;
+
+#movie-details span {
+	margin-left: 15px;
 }
-#runtime {
-	text-indent: 15px;
-}
-#venue {
-	text-indent: 15px;
-}
-#cast {
-	text-indent: 15px;
-}
-#plot {
-	text-indent: 15px;
+
+#movie-plot span {
+	margin-left: 15px;	
 }
