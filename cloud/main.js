@@ -2,7 +2,7 @@
  * Twitter
  */
 function getTweets() {
-  var username   = 'wffacommittee';
+  var username   = 'feedhenry';
   var num_tweets = 10;
   var url        = 'http://search.twitter.com/search.json?q=' + username;
 
@@ -13,7 +13,6 @@ function getTweets() {
   });
   return {'data': $fh.parse(response.body).results};
 }
-
 
 /*
  * Maps
