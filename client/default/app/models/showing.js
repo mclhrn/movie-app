@@ -1,9 +1,9 @@
-var tweets={
+var showing={
 	data:[],
 	load:function(callback){
 		var that=this;
 		$fh.act({
-			"act":"getTweets",
+			"act":"getXML",
 			"secure":false
 		},function(res){
 			
